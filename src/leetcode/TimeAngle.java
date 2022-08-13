@@ -35,6 +35,7 @@ public class TimeAngle {
 
     double actualAngle = angle + deltaByMinutesForHour;
 
+    // some chae
     System.out.println(actualAngle);
 
 }
